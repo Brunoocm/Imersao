@@ -1,0 +1,1 @@
+Precisa mexer nos layer do player e da capsula, é por isso que as coisas não estão funcioando no pulo
